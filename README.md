@@ -1,0 +1,1 @@
+# whisper-nllb-subtitle-app

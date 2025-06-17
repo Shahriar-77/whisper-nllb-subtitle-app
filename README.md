@@ -50,7 +50,7 @@ Ideal for content creators, educators, researchers, and localization specialists
 
 ## 📸 Demo
 
-👉 [Click to watch the demo](https://github.com/shahriar-77/whisper-nllb-subtitle-app/blob/main/demo/demo-video.mp4)
+👉 [Click to watch the demo](https://github.com/shahriar-77/whisper-nllb-subtitle-app/blob/main/demo/demo-video.mkv)
 
 ---
 
